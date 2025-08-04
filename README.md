@@ -1,2 +1,2 @@
 # SalaahStrikeUi
-Ui For upcoming app
+Ui for my upcoming app
